@@ -20,6 +20,7 @@
 		04D9052F1D8E8B57000E042D /* ALView+PureLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D905271D8E8B57000E042D /* ALView+PureLayout.m */; };
 		04D905301D8E8B57000E042D /* NSArray+PureLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D905291D8E8B57000E042D /* NSArray+PureLayout.m */; };
 		04D905311D8E8B57000E042D /* NSLayoutConstraint+PureLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D9052B1D8E8B57000E042D /* NSLayoutConstraint+PureLayout.m */; };
+		04D905371D8EA55D000E042D /* 演示签名.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04D905361D8EA55D000E042D /* 演示签名.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +70,7 @@
 		04D9052C1D8E8B57000E042D /* PureLayout+Internal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "PureLayout+Internal.h"; sourceTree = "<group>"; };
 		04D9052D1D8E8B57000E042D /* PureLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PureLayout.h; sourceTree = "<group>"; };
 		04D9052E1D8E8B57000E042D /* PureLayoutDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PureLayoutDefines.h; sourceTree = "<group>"; };
+		04D905361D8EA55D000E042D /* 演示签名.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "演示签名.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 		04D904EB1D8E89E9000E042D /* ZQSignatureView */ = {
 			isa = PBXGroup;
 			children = (
+				04D905361D8EA55D000E042D /* 演示签名.gif */,
 				04D904EF1D8E89E9000E042D /* AppDelegate.h */,
 				04D904F01D8E89E9000E042D /* AppDelegate.m */,
 				04D904F21D8E89E9000E042D /* ViewController.h */,
@@ -283,6 +286,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				04D904FC1D8E89E9000E042D /* LaunchScreen.storyboard in Resources */,
+				04D905371D8EA55D000E042D /* 演示签名.gif in Resources */,
 				04D904F91D8E89E9000E042D /* Assets.xcassets in Resources */,
 				04D904F71D8E89E9000E042D /* Main.storyboard in Resources */,
 			);
